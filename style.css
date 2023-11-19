@@ -1,0 +1,19 @@
+*{
+    background-color: brown;
+}
+.para{
+    color: blue;
+    background-color: antiquewhite;
+    margin: 1px;
+    text-align: justify;
+
+}
+.center{
+    text-align: center;
+    background-color: aqua;
+    color: #f70b0b;
+}
+.pa{
+    text-align: justify;
+
+}
